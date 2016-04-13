@@ -1,0 +1,15 @@
+File	Sample	Type	Reads	Aligned	perf27	q20	Library	Length
+arachne/3939.2.qltout.txt	HCC1954	Tumor	5935893	2773157	2819963			32
+arachne/3939.3.qltout.txt	HCC1954	Tumor	5880415	2602311	2582095			32
+arachne/3939.4.qltout.txt	HCC1954	Tumor	6334187	2811131	2833630			32
+arachne/3939.5.qltout.txt	HCC1954	Tumor	6313140	3023201	3178546			32
+arachne/4343.2.qltout.txt	HCC1954	Tumor	4610681	2277777	2644826			36
+arachne/4343.3.qltout.txt	HCC1954	Tumor	5884117	2724577	3032445			36
+arachne/4343.4.qltout.txt	HCC1954	Tumor	5846641	2715834	3037237			36
+arachne/3939.6.qltout.txt	BL1954	Normal	4184120	2034361	2251578			32
+arachne/3939.7.qltout.txt	BL1954	Normal	4147334	2040866	2280108			32
+arachne/3939.8.qltout.txt	BL1954	Normal	4280984	1959280	1996800			32
+arachne/4343.5.qltout.txt	BL1954	Normal	3931604	1951265	2341579			36
+arachne/4343.6.qltout.txt	BL1954	Normal	5036456	2313416	2553008			36
+arachne/4343.7.qltout.txt	BL1954	Normal	4821607	2213346	2283530			36
+arachne/4343.8.qltout.txt	BL1954	Normal	4808497	2121786	1808012			36
